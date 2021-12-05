@@ -1,1 +1,1 @@
-dev & ui MT
+### design & dev. by melihsahtulek
